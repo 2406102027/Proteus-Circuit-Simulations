@@ -14,7 +14,7 @@ This repository contains circuit simulations designed using Proteus.
 Software: Proteus 8
 Analysis Type: Transient Simulation
 
-# Planned Additions
+## Planned Additions
 - RLC transient response
 - 555 Timer astable circuit
 - Op-amp low pass filter
